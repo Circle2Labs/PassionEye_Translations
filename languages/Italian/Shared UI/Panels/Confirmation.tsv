@@ -1,0 +1,19 @@
+CONFIRMATION_AREYOUSURE	Sei Sicuro?
+CONFIRMATION_YES	Si
+CONFIRMATION_NO	No
+
+CONFIRMATION_RESETSETTINGS	Tutte le impostazioni saranno ripristinate ai loro valori predefiniti.
+CONFIRMATION_UNSAVEDLOST	Ogni progresso non salvato verrà perso.
+
+CONFIRMATION_ENVMODIFIED	L'ambiente corrente verrà modificato.
+CONFIRMATION_ENVOVERWRITTEN	L'ambiente corrente verrà sovrascritto.
+
+CONFIRMATION_CARDREMOVED	La carta sarà rimossa dal tuo dispositivo.
+CONFIRMATION_SELOBJREMOVED	Gli oggetti selezionati saranno rimossi dalla scena.
+CONFIRMATION_ALLOBJREMOVED	Tutti gli oggetti saranno rimossi dalla scena.
+
+CONFIRMATION_POSEOVERWRITTEN	La posa corrente sarà sovrascritta.
+
+CONFIRMATION_RSTSTUDIOSCENE	Tutte le impostazioni della scena saranno ripristinate ai loro valori predefiniti.
+CONFIRMATION_RSTSTUDIO	Tutte le impostazioni dello studio saranno ripristinate ai loro valori predefiniti.
+CONFIRMATION_RELOADMODS	Le mod verranno ricaricate, mantenendo lo stato corrente del gioco. Potrebbero verificarsi problemi.	-3

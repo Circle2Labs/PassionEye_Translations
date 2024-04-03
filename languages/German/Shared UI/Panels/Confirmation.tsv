@@ -1,0 +1,19 @@
+CONFIRMATION_AREYOUSURE	Bist Du sicher?
+CONFIRMATION_YES	Ja
+CONFIRMATION_NO	Nein
+
+CONFIRMATION_RESETSETTINGS	Alle Einstellungen werden auf die Standardwerte zurückgesetzt
+CONFIRMATION_UNSAVEDLOST	Ungespeicherter Fortschritt geht verloren
+
+CONFIRMATION_ENVMODIFIED	Die aktuelle Umgebung wird verändert
+CONFIRMATION_ENVOVERWRITTEN	Die aktuelle Umgebung wird überschrieben
+
+CONFIRMATION_CARDREMOVED	Diese Karte wird von Deinem Gerät entfernt
+CONFIRMATION_SELOBJREMOVED	Ausgewählte Objekte werden aus der Szene entfernt
+CONFIRMATION_ALLOBJREMOVED	Alle Objekte werden aus der Szene entfernt
+
+CONFIRMATION_POSEOVERWRITTEN	Die aktuelle Pose wird überschrieben
+
+CONFIRMATION_RSTSTUDIOSCENE	Alle Szeneneinstellungen werden auf die Standardwerte zurückgesetzt
+CONFIRMATION_RSTSTUDIO	Alle Studioeinstellungen werden auf die Standardwerte zurückgesetzt
+CONFIRMATION_RELOADMODS	Mods werden neu geladen, Spielstatus wird beibehalten. Probleme könnten auftreten

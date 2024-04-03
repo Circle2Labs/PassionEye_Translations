@@ -1,0 +1,56 @@
+NOTIFICATION_TITLE_CLOTHINGFITTING	Adattamento Abiti
+NOTIFICATION_TITLE_MISSINGMOD	Mod Mancante
+NOTIFICATION_TITLE_BACKGROUND	Background
+NOTIFICATION_TITLE_BGM	Musica in Background 
+NOTIFICATION_TITLE_SETTINGS	Impostazioni
+NOTIFICATION_TITLE_SCREENSHOT	Screenshot
+NOTIFICATION_TITLE_TEXTURE	Texture
+NOTIFICATION_TITLE_BROKENCHARA	Dati Personaggio Danneggiati
+NOTIFICATION_TITLE_BROKENPOSE	Dati Posa Danneggiati
+NOTIFICATION_TITLE_BROKENEXPR	Dati Expressione Danneggiati
+NOTIFICATION_TITLE_MISSINGCHARAPART	Referenza ad una parte del corpo mancante
+
+NOTIFICATION_TITLE_DATAOBJ_CHARACTERCARD	Personaggio
+NOTIFICATION_TITLE_DATAOBJ_OUTFITCARD	Outfit
+NOTIFICATION_TITLE_DATAOBJ_STUDIOSCENECARD	Scena Studio
+NOTIFICATION_TITLE_DATAOBJ_EXPRESSION	Espressione
+NOTIFICATION_TITLE_DATAOBJ_NAMES	Nomi
+NOTIFICATION_TITLE_DATAOBJ_SETTINGS	Impostazioni
+NOTIFICATION_TITLE_DATAOBJ_POSECARD	Pose
+
+NOTIFICATION_TITLE_UNDO	Annulla
+NOTIFICATION_TITLE_REDO	Ripeti
+
+NOTIFICATION_DESC_CLOTHINGFITTING_COMPLETE	Adattamento degli abiti completato. (Ha richiesto: {{0}}ms)
+
+NOTIFICATION_DESC_MOD_NOTFOUND	Mod {{0}} con ID {{1}} non trovata, verrà saltata
+NOTIFICATION_DESC_MOD_NOTFOUND_DEFAULTING	Mod {{0}} con ID {{1}} non trovata, verra rimpiazzata con un cubo
+
+NOTIFICATION_DESC_BACKGROUND_FAILED	Caricamento immagine background fallito
+NOTIFICATION_DESC_BGM_FAILED	Caricamento musica background fallito
+
+NOTIFICATION_DESC_CHARA_FAILED	Caricamento personaggio fallito, verrà rimpiazzato con il predefinito
+NOTIFICATION_DESC_POSE_FAILED	Caricamento posa fallita, verrà saltata
+NOTIFICATION_DESC_EXPR_FAILED	Caricamento espressione fallita, verrà saltata
+NOTIFICATION_DESC_CHARAPART_NOTFOUND_DEFAULTING	Referenza alla parte del corpo {{0}} non trovata, verrà rimpiazzata con un oggetto vuoto
+
+NOTIFICATION_DESC_DATA_SAVED	Dati salvati con successo
+NOTIFICATION_DESC_DATA_LOADED	Dati caricati con successo
+NOTIFICATION_DESC_DATA_ADDED	Dati aggiunti con successo
+NOTIFICATION_DESC_DATA_DELETED	Dati eliminati con successo
+NOTIFICATION_DESC_DATA_WFAILED	Scrittura dati fallita
+NOTIFICATION_DESC_DATA_RFAILED	Lettura dati fallita
+
+NOTIFICATION_DESC_SAVEDAS	Salvato come {{0}}
+
+NOTIFICATION_DESC_SETTINGS_DEFAULTED	Ripristinate tutte le impostazioni ai valori di default
+NOTIFICATION_DESC_SETTING_FAILED	Fallimento nel salvataggio dell'impostazione {{0}}
+
+NOTIFICATION_DESC_UNDO_SUCCESS	"Annulla" andato a buon fine
+NOTIFICATION_DESC_UNDO_FAIL	"Annulla" Fallito
+
+NOTIFICATION_DESC_REDO_SUCCESS	"Ripeti" andato a buon fine
+NOTIFICATION_DESC_REDO_FAIL	"Ripeti" Fallito
+NOTIFICATION_DESC_MOD_VERSIONDIFF	La mod {{0}} (ID: {{1}} versione {{2}}) è diversa dalla versione correntemente installata ({{3}}). Potrebbero verificarsi incompatibilità
+NOTIFICATION_TITLE_SKYBOX	Skybox
+NOTIFICATION_DESC_SKYBOX_FAILED	Caricamento della skybox fallito

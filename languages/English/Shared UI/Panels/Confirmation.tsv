@@ -1,0 +1,20 @@
+CONFIRMATION_AREYOUSURE	Are you sure?
+CONFIRMATION_YES	Yes
+CONFIRMATION_NO	No
+
+CONFIRMATION_RESETSETTINGS	All settings will be set to their default values
+CONFIRMATION_UNSAVEDLOST	Any unsaved progress will be lost
+
+CONFIRMATION_ENVMODIFIED	The current environment will be modified
+CONFIRMATION_ENVOVERWRITTEN	The current environment will be overwritten
+
+CONFIRMATION_CARDREMOVED	The card will be removed from your device
+CONFIRMATION_SELOBJREMOVED	The selected object(s) will be removed from the scene
+CONFIRMATION_ALLOBJREMOVED	All objects will be removed from the scene
+
+CONFIRMATION_POSEOVERWRITTEN	The current pose will be overwritten
+
+CONFIRMATION_RSTSTUDIOSCENE	All scene settings will be set to their default values
+CONFIRMATION_RSTSTUDIO	All studio settings will be set to their default values
+
+CONFIRMATION_RELOADMODS	Mods will be reloaded, keeping current game state. Issues may occur

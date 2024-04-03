@@ -1,0 +1,12 @@
+MODCREATOR_ADV_CODEREL	Code Related
+MODCREATOR_ADV_CUSTOMTYPE	Custom Type
+MODCREATOR_ADV_USINGS	Usings
+MODCREATOR_ADV_SOURCE	Source Code
+MODCREATOR_ADV_IMPORT	Import
+MODCREATOR_ADV_IMPORTSRC	Import Source Code
+MODCREATOR_ADV_EXPORT	Export
+MODCREATOR_ADV_EXPORTSRC	Export Source Code
+MODCREATOR_ADV_WARN1	Make sure 'Custom Type' matches the class name in the source code.
+MODCREATOR_ADV_WARN2	You have to use 'BaseClothing', 'BaseHair', 'BaseTexture', 'BaseBaseMesh' or 'BaseAccessory' as the base type.
+MODCREATOR_ADV_WARN3	You have to use 'BaseStudioObject' as the base type.
+MODCREATOR_ADV_WARN4	If you change the base type, make sure the Type in the Basic tab is set accordingly.

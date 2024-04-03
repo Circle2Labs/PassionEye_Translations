@@ -1,0 +1,12 @@
+MODCREATOR_ADV_CODEREL	Code bezogen
+MODCREATOR_ADV_CUSTOMTYPE	Eigener Typ
+MODCREATOR_ADV_USINGS	Verwendungen
+MODCREATOR_ADV_SOURCE	Quellcode
+MODCREATOR_ADV_IMPORT	Importieren
+MODCREATOR_ADV_IMPORTSRC	Quellcode Importieren
+MODCREATOR_ADV_EXPORT	Exportieren
+MODCREATOR_ADV_EXPORTSRC	Quellcode Exportieren
+MODCREATOR_ADV_WARN1	Stelle sicher, dass 'Eigener Typ' dem Klassennamen im Quellcode entspricht.
+MODCREATOR_ADV_WARN2	Verwende 'BaseClothing', 'BaseHair', 'BaseTexture', 'BaseBaseMesh' oder 'BaseAccessory' als Basis-Typ.
+MODCREATOR_ADV_WARN3	Verwende 'BaseStudioObject' als Basistyp.
+MODCREATOR_ADV_WARN4	Änderst Du den Basistyp, stelle sicher, dass du den Typ im Reiter "Einfach" entsprechend anpasst.

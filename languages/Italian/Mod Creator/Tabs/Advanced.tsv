@@ -1,0 +1,12 @@
+MODCREATOR_ADV_CODEREL	Correlato al codice
+MODCREATOR_ADV_CUSTOMTYPE	Tipo Custom
+MODCREATOR_ADV_USINGS	Usings
+MODCREATOR_ADV_SOURCE	Codice Sorgente
+MODCREATOR_ADV_IMPORT	Importa
+MODCREATOR_ADV_IMPORTSRC	Importa il codice sorgente
+MODCREATOR_ADV_EXPORT	Esporta
+MODCREATOR_ADV_EXPORTSRC	Exporta il codice sorgente
+MODCREATOR_ADV_WARN1	assicurati che il 'Tipo Custom'coincida col il nome della classe nel codice sorgente.
+MODCREATOR_ADV_WARN2	Devi usare 'BaseClothing', 'BaseHair', 'BaseTexture', 'BaseBaseMesh' o 'BaseAccessory'come tipi di base.
+MODCREATOR_ADV_WARN3	Devi usare 'BaseStudioObject' come base.
+MODCREATOR_ADV_WARN4	Se cambi il tiopo di base, assicurati che il tipo nel tab Base sia settato di conseguenza.

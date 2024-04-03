@@ -1,0 +1,12 @@
+MODCREATOR_ADV_CODEREL	Associado ao Código
+MODCREATOR_ADV_CUSTOMTYPE	Modelo Personalizado
+MODCREATOR_ADV_USINGS	Usos
+MODCREATOR_ADV_SOURCE	Código Fonte
+MODCREATOR_ADV_IMPORT	Importar
+MODCREATOR_ADV_IMPORTSRC	Importar Código-Fonte
+MODCREATOR_ADV_EXPORT	Exportar
+MODCREATOR_ADV_EXPORTSRC	Exportar Código-Fonte
+MODCREATOR_ADV_WARN1	Cerifique-se que a função 'Custom Type' possua o mesmo nome de classe do código fonte.
+MODCREATOR_ADV_WARN2	Você precisa usar a função 'BaseClothing', 'BaseHair', 'BaseTexture', 'BaseBaseMesh' ou 'BaseAccessory' como o modelo base.
+MODCREATOR_ADV_WARN3	Você precisa usar a função 'BaseStudioObject' como o modelo base.
+MODCREATOR_ADV_WARN4	Se você mudar o modelo base, certifique-se que o Modelo na aba Básica está configurado de acordo.

@@ -1,0 +1,19 @@
+CONFIRMATION_AREYOUSURE	Tem Certeza?
+CONFIRMATION_YES	Sim
+CONFIRMATION_NO	Não
+
+CONFIRMATION_RESETSETTINGS	Todas configurações serão alteradas para seus valores padrão
+CONFIRMATION_UNSAVEDLOST	Todo progresso não salvo será perdido
+
+CONFIRMATION_ENVMODIFIED	O ambiente atual será modificado
+CONFIRMATION_ENVOVERWRITTEN	O ambiente atual será sobrescrito
+
+CONFIRMATION_CARDREMOVED	O card será removido de seu disposito
+CONFIRMATION_SELOBJREMOVED	Os objetos selecionados serão removidos da cena
+CONFIRMATION_ALLOBJREMOVED	Todos objetos serão removidos da cena
+
+CONFIRMATION_POSEOVERWRITTEN	A pose atual será sobrescrita
+
+CONFIRMATION_RSTSTUDIOSCENE	Todas configurações de cena serão alteradas para seus valores padrão
+CONFIRMATION_RSTSTUDIO	Todas configurações do estúdio serão alteradas para seus valores padrão
+CONFIRMATION_RELOADMODS	Mods serão recarregados, mantendo o estado atual do jogo. Possíveis problemas irão ocorrer	-2

@@ -1,0 +1,56 @@
+NOTIFICATION_TITLE_CLOTHINGFITTING	Kleidungsanpassung
+NOTIFICATION_TITLE_MISSINGMOD	Fehlende Mod
+NOTIFICATION_TITLE_BACKGROUND	Hintergrund
+NOTIFICATION_TITLE_BGM	Hintergundmusik
+NOTIFICATION_TITLE_SETTINGS	Einstellungen
+NOTIFICATION_TITLE_SCREENSHOT	Screenshot
+NOTIFICATION_TITLE_TEXTURE	Textur
+NOTIFICATION_TITLE_BROKENCHARA	Ungültiger Charakter
+NOTIFICATION_TITLE_BROKENPOSE	Ungültige Pose
+NOTIFICATION_TITLE_BROKENEXPR	Ungültiger Ausdruck
+NOTIFICATION_TITLE_MISSINGCHARAPART	Fehlendes Körperteil
+
+NOTIFICATION_TITLE_DATAOBJ_CHARACTERCARD	Charakter
+NOTIFICATION_TITLE_DATAOBJ_OUTFITCARD	Outfit
+NOTIFICATION_TITLE_DATAOBJ_STUDIOSCENECARD	Studio Szene
+NOTIFICATION_TITLE_DATAOBJ_EXPRESSION	Ausdruck
+NOTIFICATION_TITLE_DATAOBJ_NAMES	Namen
+NOTIFICATION_TITLE_DATAOBJ_SETTINGS	Einstellungen
+NOTIFICATION_TITLE_DATAOBJ_POSECARD	Pose
+
+NOTIFICATION_TITLE_UNDO	Rückgängig
+NOTIFICATION_TITLE_REDO	Wiederholen
+
+NOTIFICATION_DESC_CLOTHINGFITTING_COMPLETE	Kleidungsanpassung erfolgreich. (Benötigte Zeit: {{0}}ms)
+
+NOTIFICATION_DESC_MOD_NOTFOUND	Mod {{0}} ID {{1}} nicht gefunden, überspringe ...
+NOTIFICATION_DESC_MOD_NOTFOUND_DEFAULTING	Mod {{0}} ID {{1}} nicht gefunden, verwende Standard
+
+NOTIFICATION_DESC_BACKGROUND_FAILED	Konnte Hintergrundbild nicht laden
+NOTIFICATION_DESC_BGM_FAILED	Konnte Hintergrundmusik nicht laden
+
+NOTIFICATION_DESC_CHARA_FAILED	Konnte Charakter nicht laden, verwende Standard
+NOTIFICATION_DESC_POSE_FAILED	Konnte Pose nicht laden, überspringe ...
+NOTIFICATION_DESC_EXPR_FAILED	Konnte Ausdruck nicht laden, überspringe ...
+NOTIFICATION_DESC_CHARAPART_NOTFOUND_DEFAULTING	Körperteil {{0}} nicht gefunden, verwende Standard
+
+NOTIFICATION_DESC_DATA_SAVED	Daten erfolgreich gespeichert
+NOTIFICATION_DESC_DATA_LOADED	Daten erfolgreich geladen
+NOTIFICATION_DESC_DATA_ADDED	Daten erfolgreich hinzugefügt
+NOTIFICATION_DESC_DATA_DELETED	Daten erfolgreich gelöscht
+NOTIFICATION_DESC_DATA_WFAILED	Konnte Daten nicht schreiben
+NOTIFICATION_DESC_DATA_RFAILED	Konnte Daten nicht lesen
+
+NOTIFICATION_DESC_SAVEDAS	Gespeichert als {{0}}
+
+NOTIFICATION_DESC_SETTINGS_DEFAULTED	Standardwerte für Einstellungen wiederhergestellt
+NOTIFICATION_DESC_SETTING_FAILED	Konnte Einstellungen nicht speichern {{0}}
+
+NOTIFICATION_DESC_UNDO_SUCCESS	Änderung erfolgreich zurückgenommen
+NOTIFICATION_DESC_UNDO_FAIL	Konnte Änderung nicht zurücknehmen
+
+NOTIFICATION_DESC_REDO_SUCCESS	Änderung erfolgreich wiederholt
+NOTIFICATION_DESC_REDO_FAIL	Änderung konnte nicht wiederholt werden
+NOTIFICATION_DESC_MOD_VERSIONDIFF	Mod {{0}} ID {{1}} Version {{2}} unterscheidet sich von installierter Version {{3}}. Funktion kann beeinträchtigt sein
+NOTIFICATION_TITLE_SKYBOX	Skybox
+NOTIFICATION_DESC_SKYBOX_FAILED	Fehler beim Laden der Skybox
