@@ -13,9 +13,9 @@ TOOLTIP_STUDIOWORKSPACE_RENAME	Rinomina oggetti
 TOOLTIP_STUDIOWORKSPACE_FOLDER	Crea Cartella
 TOOLTIP_STUDIOWORKSPACE_ADDCHARA	Aggiungi personaggio
 TOOLTIP_STUDIOWORKSPACE_EDITCHARA	Modifica personaggio
-TOOLTIP_CAMERA_TITLE	Camera
-TOOLTIP_CAMERA_ADD	Add a new camera
-TOOLTIP_CAMERA_CLEAR	Clear all cameras
-TOOLTIP_CAMERA_SAVE	Save selected camera
-TOOLTIP_CAMERA_APPLY	Apply selected camera
-TOOLTIP_CAMERA_REMOVE	Remove selected camera
+TOOLTIP_CAMERA_TITLE	Telecamera
+TOOLTIP_CAMERA_ADD	Aggiungi una nuova telecamera
+TOOLTIP_CAMERA_CLEAR	Rimuovi tutte le telecamere
+TOOLTIP_CAMERA_SAVE	Salva la telecamera selezionata
+TOOLTIP_CAMERA_APPLY	Applica la telecamera selezionata
+TOOLTIP_CAMERA_REMOVE	Rimuovi la telecamera selezionata

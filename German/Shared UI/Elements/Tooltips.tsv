@@ -13,9 +13,9 @@ TOOLTIP_STUDIOWORKSPACE_RENAME	Objekt umbenennen
 TOOLTIP_STUDIOWORKSPACE_FOLDER	Ordner erstellen
 TOOLTIP_STUDIOWORKSPACE_ADDCHARA	Charakter hinzufügen
 TOOLTIP_STUDIOWORKSPACE_EDITCHARA	Charakter editieren
-TOOLTIP_CAMERA_TITLE	Camera
-TOOLTIP_CAMERA_ADD	Add a new camera
-TOOLTIP_CAMERA_CLEAR	Clear all cameras
-TOOLTIP_CAMERA_SAVE	Save selected camera
-TOOLTIP_CAMERA_APPLY	Apply selected camera
-TOOLTIP_CAMERA_REMOVE	Remove selected camera
+TOOLTIP_CAMERA_TITLE	Kamera
+TOOLTIP_CAMERA_ADD	Neue Kamera hinzufügen
+TOOLTIP_CAMERA_CLEAR	Alle Kameras entfernen
+TOOLTIP_CAMERA_SAVE	Für ausgewählte Kamera sichern
+TOOLTIP_CAMERA_APPLY	Auf ausgewählte Kamera anwenden
+TOOLTIP_CAMERA_REMOVE	Ausgewählte Kamera entfernen
