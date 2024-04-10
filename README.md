@@ -14,7 +14,9 @@ All language files are **Tab Separated Values** (.tsv) files which behave simila
 Each language file is made up of any amount of lines containing either two or three columns per line. For example:
 
 `PANEL_START	Start`
+
 `PANEL_EXIT	Exit	-2`
+
 `PANEL_INFO	Today is {{0}}`
 
 In this case, `SOME_KEY` is an internal key used in the game to represent a value that is retrieved via localization. You should not change this.
