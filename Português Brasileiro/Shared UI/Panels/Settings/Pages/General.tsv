@@ -29,5 +29,5 @@ SETTINGS_PAGE_GENERAL_SCREENPOSITION_MIDDLERIGHT	Centro da Tela à Direita	-2
 SETTINGS_PAGE_GENERAL_SCREENPOSITION_BOTTOMLEFT	Canto Inferior da Tela à Esquerda	-2
 SETTINGS_PAGE_GENERAL_SCREENPOSITION_BOTTOMCENTER	Canto Inferior da Tela ao Centro	-2
 SETTINGS_PAGE_GENERAL_SCREENPOSITION_BOTTOMRIGHT	Canto Inferior da Tela à Direita	-2
-SETTINGS_PAGE_GENERAL_DEVMODE	Toggle Developer Mode
-SETTINGS_PAGE_GENERAL_ALLOWSCRIPTEDMODS	Allow Mods with Custom Code (Restart required, potentially dangerous)
+SETTINGS_PAGE_GENERAL_DEVMODE	Alternar Modo Desenvolvedor
+SETTINGS_PAGE_GENERAL_ALLOWSCRIPTEDMODS	Permitir Mods com Código Personalizado (Requer reinicialização, potencialmente perigoso)
