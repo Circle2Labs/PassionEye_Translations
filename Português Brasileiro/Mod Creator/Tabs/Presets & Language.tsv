@@ -7,3 +7,4 @@ MODCREATOR_PRESETSLANGUAGE_LANGUAGES	Idiomas
 MODCREATOR_PRESETSLANGUAGE_CURRENTLANG	Idioma Atual
 MODCREATOR_PRESETSLANGUAGE_NOPRESETS	Nenhuma predefinição encontrada
 MODCREATOR_PRESETSLANGUAGE_RUNTIMEDATA	Malhas, materiais, texturas, etc. não serão salvas na predefinição se forem carregadas de um mod.
+MODCREATOR_PRESETSLANGUAGE_BUILDEVERYTHING	Build all Presets

@@ -7,3 +7,4 @@ MODCREATOR_PRESETSLANGUAGE_LANGUAGES	Sprachen
 MODCREATOR_PRESETSLANGUAGE_CURRENTLANG	Aktuelle Sprache
 MODCREATOR_PRESETSLANGUAGE_NOPRESETS	Keine Voreinstellungen gefunden.
 MODCREATOR_PRESETSLANGUAGE_RUNTIMEDATA	Meshes, Materials, Texturen, etc. werden nicht in die Voreinstellungen gespeichert wenn sie aus einer Mod geladen werden.
+MODCREATOR_PRESETSLANGUAGE_BUILDEVERYTHING	Build all Presets
