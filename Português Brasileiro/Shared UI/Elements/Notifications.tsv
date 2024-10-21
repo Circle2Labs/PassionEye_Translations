@@ -54,3 +54,6 @@ NOTIFICATION_DESC_REDO_FAIL	Falha ao Refazer
 NOTIFICATION_DESC_MOD_VERSIONDIFF	Mod {{0}} ID {{1}} versão {{2}} difere do instalado {{3}}, possíveis incompatibilidades
 NOTIFICATION_TITLE_SKYBOX	Skybox
 NOTIFICATION_DESC_SKYBOX_FAILED	Falha ao carregar skybox
+NOTIFICATION_TITLE_MODIFIEDMOD	Modified Mod
+NOTIFICATION_DESC_MOD_TYPEDIFF	Mod {{0}} ID {{1}} item type differs from expected, skipping
+NOTIFICATION_DESC_MOD_TYPEDIFF_DEFAULTING	Mod {{0}} ID {{1}} item type differs from expected, defaulting

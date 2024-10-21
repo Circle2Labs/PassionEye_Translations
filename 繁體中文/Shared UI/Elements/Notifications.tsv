@@ -54,3 +54,6 @@ NOTIFICATION_DESC_REDO_FAIL	重做失敗
 NOTIFICATION_DESC_MOD_VERSIONDIFF	Mod: {{0}} ID: {{1}} 版本: {{2}} 與已安裝的版本: {{3}} 不同，可能存在不兼容性
 NOTIFICATION_TITLE_SKYBOX	天空盒
 NOTIFICATION_DESC_SKYBOX_FAILED	天空盒加載失敗
+NOTIFICATION_TITLE_MODIFIEDMOD	Modified Mod
+NOTIFICATION_DESC_MOD_TYPEDIFF	Mod {{0}} ID {{1}} item type differs from expected, skipping
+NOTIFICATION_DESC_MOD_TYPEDIFF_DEFAULTING	Mod {{0}} ID {{1}} item type differs from expected, defaulting

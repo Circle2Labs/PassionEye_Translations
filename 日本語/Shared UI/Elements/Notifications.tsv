@@ -54,3 +54,6 @@ NOTIFICATION_DESC_UNDO_FAIL	元に戻せませんでした
 
 NOTIFICATION_DESC_REDO_SUCCESS	やり直しました
 NOTIFICATION_DESC_REDO_FAIL	やり直せませんでした
+NOTIFICATION_TITLE_MODIFIEDMOD	Modified Mod
+NOTIFICATION_DESC_MOD_TYPEDIFF	Mod {{0}} ID {{1}} item type differs from expected, skipping
+NOTIFICATION_DESC_MOD_TYPEDIFF_DEFAULTING	Mod {{0}} ID {{1}} item type differs from expected, defaulting

@@ -54,3 +54,6 @@ NOTIFICATION_DESC_REDO_FAIL	"Ripeti" Fallito
 NOTIFICATION_DESC_MOD_VERSIONDIFF	La mod {{0}} (ID: {{1}} versione {{2}}) è diversa dalla versione correntemente installata ({{3}}). Potrebbero verificarsi incompatibilità
 NOTIFICATION_TITLE_SKYBOX	Skybox
 NOTIFICATION_DESC_SKYBOX_FAILED	Caricamento della skybox fallito
+NOTIFICATION_TITLE_MODIFIEDMOD	Modified Mod
+NOTIFICATION_DESC_MOD_TYPEDIFF	Mod {{0}} ID {{1}} item type differs from expected, skipping
+NOTIFICATION_DESC_MOD_TYPEDIFF_DEFAULTING	Mod {{0}} ID {{1}} item type differs from expected, defaulting

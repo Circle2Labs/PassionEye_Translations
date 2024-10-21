@@ -54,3 +54,6 @@ NOTIFICATION_DESC_REDO_FAIL	Änderung konnte nicht wiederholt werden
 NOTIFICATION_DESC_MOD_VERSIONDIFF	Mod {{0}} ID {{1}} Version {{2}} unterscheidet sich von installierter Version {{3}}. Funktion kann beeinträchtigt sein
 NOTIFICATION_TITLE_SKYBOX	Skybox
 NOTIFICATION_DESC_SKYBOX_FAILED	Fehler beim Laden der Skybox
+NOTIFICATION_TITLE_MODIFIEDMOD	Modified Mod
+NOTIFICATION_DESC_MOD_TYPEDIFF	Mod {{0}} ID {{1}} item type differs from expected, skipping
+NOTIFICATION_DESC_MOD_TYPEDIFF_DEFAULTING	Mod {{0}} ID {{1}} item type differs from expected, defaulting

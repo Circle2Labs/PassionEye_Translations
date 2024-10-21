@@ -1,5 +1,6 @@
 NOTIFICATION_TITLE_CLOTHINGFITTING	Clothing Fitting
 NOTIFICATION_TITLE_MISSINGMOD	Missing Mod
+NOTIFICATION_TITLE_MODIFIEDMOD	Modified Mod
 NOTIFICATION_TITLE_BACKGROUND	Background
 NOTIFICATION_TITLE_BGM	Background Music
 NOTIFICATION_TITLE_SETTINGS	Settings
@@ -27,6 +28,8 @@ NOTIFICATION_DESC_CLOTHINGFITTING_COMPLETE	Clothing fitting process complete. (t
 NOTIFICATION_DESC_MOD_VERSIONDIFF	Mod {{0}} ID {{1}} version {{2}} differs from installed {{3}}, possible incompatibilities
 NOTIFICATION_DESC_MOD_NOTFOUND	Mod {{0}} ID {{1}} not found, skipping
 NOTIFICATION_DESC_MOD_NOTFOUND_DEFAULTING	Mod {{0}} ID {{1}} not found, defaulting
+NOTIFICATION_DESC_MOD_TYPEDIFF	Mod {{0}} ID {{1}} item type differs from expected, skipping
+NOTIFICATION_DESC_MOD_TYPEDIFF_DEFAULTING	Mod {{0}} ID {{1}} item type differs from expected, defaulting
 
 NOTIFICATION_DESC_BACKGROUND_FAILED	Failed to load background image
 NOTIFICATION_DESC_BGM_FAILED	Failed to load background music
