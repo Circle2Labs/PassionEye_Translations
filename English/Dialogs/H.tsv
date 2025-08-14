@@ -1,0 +1,8 @@
+DIALOGS_H_START_REQUEST	Let's have some fun, shall we?
+DIALOGS_H_START_ANSWER_YES	Let's go.
+DIALOGS_H_START_ANSWER_NO	No, it's okay.
+DIALOGS_H_START_AGREE	Okay, I'll follow you.
+DIALOGS_H_END_REQUEST	Should we stop here?
+DIALOGS_H_END_ANSWER_YES	Yes.
+DIALOGS_H_END_ANSWER_NO	No, let's continue.
+DIALOGS_H_END_AGREE	It was fun.
