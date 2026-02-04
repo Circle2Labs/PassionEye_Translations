@@ -57,3 +57,7 @@ NOTIFICATION_DESC_SKYBOX_FAILED	天空盒加载失败
 NOTIFICATION_TITLE_MODIFIEDMOD	Modified Mod
 NOTIFICATION_DESC_MOD_TYPEDIFF	Mod {{0}} ID {{1}} item type differs from expected, skipping
 NOTIFICATION_DESC_MOD_TYPEDIFF_DEFAULTING	Mod {{0}} ID {{1}} item type differs from expected, defaulting
+NOTIFICATION_TITLE_INVENTORY	Inventory
+NOTIFICATION_DESC_INVENTORY_LIMIT	Can't hold any more of {{0}}
+NOTIFICATION_DESC_INVENTORY_FULL	Can't hold any more items
+NOTIFICATION_DESC_INVENTORY_PICKEDUP	Picked up {{0}} {{1}}
