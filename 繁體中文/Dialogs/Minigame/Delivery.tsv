@@ -1,0 +1,22 @@
+MINIGAME_DELIVERY_COMPLETE_1	I just got word from the client, the packages arrived safely!
+MINIGAME_DELIVERY_COMPLETE_2	Thanks for getting it done on time. I'll send some cash your way.
+MINIGAME_DELIVERY_INCOMPLETE_1	The client said he hasn't received the package yet.
+MINIGAME_DELIVERY_INCOMPLETE_2	Please hurry and get it delivered!
+MINIGAME_DELIVERY_INCOMPLETE_3	On my way!
+MINIGAME_DELIVERY_INCOMPLETE_4	I won't make it on time.
+MINIGAME_DELIVERY_INCOMPLETE_5	Thanks.
+MINIGAME_DELIVERY_INCOMPLETE_6	Seriously?
+MINIGAME_DELIVERY_START_1	Hey, thanks for reaching out.
+MINIGAME_DELIVERY_START_2	It's a bit urgent, I need some packages delivered to a client as soon as possible.
+MINIGAME_DELIVERY_START_3	Are you up for the job? I'll be paying you, of course.
+MINIGAME_DELIVERY_START_4	Sure, I'll do it.
+MINIGAME_DELIVERY_START_5	Don't have time for it.
+MINIGAME_DELIVERY_START_6	Thanks! Make sure to call back as soon as you deliver the packages so I can tell the client to get them.
+MINIGAME_DELIVERY_START_7	Sent the location list over your way. I'm counting on you!
+MINIGAME_DELIVERY_START_8	Alright then, your loss.
+MINIGAME_DELIVERY_TIMEDOUT_1	Look, I appreciate you taking the job, but you took way too long.
+MINIGAME_DELIVERY_TIMEDOUT_2	The client couldn't wait any longer.
+MINIGAME_DELIVERY_TIMEDOUT_3	If you can't deliver on time, please don't take the job.
+MINIGAME_DELIVERY_WRONGNUMBER_1	I think I got the wrong number. Sorry.
+MINIGAME_DELIVERY_PACKAGE	Package
+MINIGAME_DELIVERY_DROPOFF	Dropoff Point
